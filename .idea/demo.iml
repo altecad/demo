@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/barryvdh/laravel-debugbar" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/barryvdh/laravel-dompdf" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/classpreloader/classpreloader" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/dompdf/dompdf" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/guzzlehttp/psr7" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/hamcrest/hamcrest-php" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/intervention/image" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jenssegers/date" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jeremeamia/SuperClosure" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/league/csv" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/maatwebsite/excel" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/maximebf/debugbar" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/mockery/mockery" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/namshi/jose" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phenx/php-font-lib" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phenx/php-svg-lib" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpoffice/phpexcel" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/psr/http-message" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/tijsverkoyen/css-to-inline-styles" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/tymon/jwt-auth" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/vlucas/phpdotenv" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/webmozart/assert" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/barryvdh/laravel-debugbar" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/barryvdh/laravel-dompdf" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/classpreloader/classpreloader" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/dnoegel/php-xdg-base-dir" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/doctrine/inflector" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/dompdf/dompdf" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/fzaninotto/faker" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/guzzlehttp/psr7" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/hamcrest/hamcrest-php" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/intervention/image" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jakub-onderka/php-console-color" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jakub-onderka/php-console-highlighter" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jenssegers/date" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/jeremeamia/SuperClosure" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/laravel/framework" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/league/csv" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/league/flysystem" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/maatwebsite/excel" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/maximebf/debugbar" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/mockery/mockery" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/monolog/monolog" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/mtdowling/cron-expression" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/namshi/jose" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/nesbot/carbon" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/nikic/php-parser" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/paragonie/random_compat" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phenx/php-font-lib" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phenx/php-svg-lib" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpoffice/phpexcel" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpseclib/phpseclib" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/psr/http-message" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/psy/psysh" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/ramsey/uuid" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/swiftmailer/swiftmailer" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/css-selector" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/dom-crawler" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/event-dispatcher" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/finder" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/http-foundation" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/http-kernel" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/polyfill-php56" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/polyfill-util" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/process" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/routing" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/translation" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/var-dumper" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/symfony/yaml" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/tijsverkoyen/css-to-inline-styles" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/tymon/jwt-auth" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/vlucas/phpdotenv" />
+          <root url="file://$MODULE_DIR$/../alcopa-cotations-master/vendor/webmozart/assert" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHP Runtime" type="php">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </CLASSES>
+        <SOURCES>
+          <root url="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/../alcopa-cotations-master/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
